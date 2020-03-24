@@ -1,13 +1,20 @@
-# Tutorials for hunters
+# Tutorials
 
-## Korean
+## For Hunters
+
+### English
+-
+
+### Korean
 ### Video tutorials
 - 닥터구구 돈버는 대학생: https://www.youtube.com/watch?v=KHKPTHlidn0
 - 포리얼TV: https://www.youtube.com/watch?v=5s0WUo8h9yE
 - 훈노보노: https://www.youtube.com/watch?v=InAAo7ucGG0
 
-# Tutorials for makers
+## For makers
+### English
 
+### Korean
 
 # Guidelines
 - For hunters: https://review.hunt.town/guidelines/hunter
