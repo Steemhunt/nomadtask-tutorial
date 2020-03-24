@@ -15,3 +15,5 @@
 7. Please check carefully that you are qualified to run this quest. In each quest, there may be specific requirements that define which hunters can join the quest (e.g. device type, minimum number of followers of your social channel, language, etc.).
 
 8. Reviewhunt runs a "Trust Score System", where the trust score acts as a measurable index that demonstrates how trustworthy a hunter is in relation to Reviewhunt activities. The score is calculated based on email verification, alt account operation, approval rate of submissions, and more. This score updates on a daily basis. You may be limited to join some quests if your Trust Score is lower than the required minimum score set by the maker for each quest.
+
+9. Faking your country of residence is considered as an abusing attempt. You must select your genuine residing country. If you fail to do so, your account will be suspended.
