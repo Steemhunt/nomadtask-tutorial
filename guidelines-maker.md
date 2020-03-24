@@ -28,4 +28,4 @@ Your quest must be achievable by any hunters based on your quest instructions. I
 We can refuse to run any quests that are related to areas considered illegal in some countries, such as gambling, scams, Ponzi schemes, malware, phishing, illegal drugs, etc.
 
 ## 10. Request Refund
-When you request a refund, a daily deduction will be applied to your refundable amount to prevent a quest running too long in a low quality way. Your refundable amount will be calculated based on the “Remaining Balance” minus the daily deduction, which is calculated by 1/30th each day. For more details, please read the [Refund Policy](https://review.hunt.town/refund-policy).
+When you request a refund, a daily deduction will be applied to your refundable amount to prevent a quest running too long in a low quality way. Your refundable amount will be calculated based on the “Remaining Balance” minus the daily deduction, which is calculated by 1/30th each day. For more details, please read the [Refund Policy](https://github.com/Steemhunt/reviewhunt-tutorial/blob/master/refund.md).
