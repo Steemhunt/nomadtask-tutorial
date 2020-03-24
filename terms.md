@@ -261,7 +261,7 @@ From the Quest operation, you may encounter an abusive or not preferable user. W
 
 A Quest reward will be distributed automatically to the Hunter's My Credit after 4 hours from the time when the Maker approve the Proof submission. The Quest will expire when there is not sufficient budget left to accept more Hunters to join. In this case, the Maker can add more budget to keep running the Quest. If not, the Quest will be finished.
 
-A Maker is responsible to set the right amount of the Quest Reward based on the level of completion. A reward that is too low may result in a low number of participants, which result in delaying Quest completion. In that case, the Maker is required to increase the Quest Reward. For the refund information about your quest budget as a Maker, please refer to the <link to="/refund-policy">Refund Policy.
+A Maker is responsible to set the right amount of the Quest Reward based on the level of completion. A reward that is too low may result in a low number of participants, which result in delaying Quest completion. In that case, the Maker is required to increase the Quest Reward. For the refund information about your quest budget as a Maker, please refer to the [Refund Policy](https://github.com/Steemhunt/reviewhunt-tutorial/blob/master/refund.md).
 
 ## Access & Interference
 
