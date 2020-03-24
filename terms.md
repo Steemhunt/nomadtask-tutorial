@@ -17,13 +17,13 @@
 
 **"Moderation"** is a process that verifies each Proof submission in order to approve or reject the Proof submission based on the addressed requirements on the Quest instruction. Moderations are performed by the Maker who has created the Quest.
 
-**"Reviewhunt"**, **"we"**, **"our"**,{' '} **"company"** or **"the company"** or{' '} **"us"** means Reviewhunt or the company running Reviewhunt.
+**"Reviewhunt"**, **"we"**, **"our"**, **"company"** or **"the company"** or **"us"** means Reviewhunt or the company running Reviewhunt.
 
 **"Reviewhunt Services"** means all services provided by us to you.
 
 **"Intellectual Property Rights"** refers to all intellectual property rights existing worldwide and the subject matter of such rights, including: (a) patents, copyright, rights in circuit layouts (or similar rights), registered designs, registered and unregistered trademarks, and any right to have confidential information kept confidential; and (b) any application or right to apply for registration of any of the rights referred to in paragraph (a), whether or not such rights are registered or capable of being registered and whether existing under any laws, at common law or in equity.
 
-**"Website"** means the Websites operated by Reviewhunt and available at:{' '} [review.hunt.town](https://review.hunt.town/) {' '} and any of its regional or other domains or properties, and any related Reviewhunt service, tool or application, specifically including mobile web, any iOS App and any Android App, or API or other access mechanism.
+**"Website"** means the Websites operated by Reviewhunt and available at: [review.hunt.town](https://review.hunt.town/)  and any of its regional or other domains or properties, and any related Reviewhunt service, tool or application, specifically including mobile web, any iOS App and any Android App, or API or other access mechanism.
 
 **"Reward"** means a reward that is paid from a Maker to a Hunter in return for the Hunter’s Proof submissions according to the Quest instruction.
 
@@ -49,7 +49,7 @@ We may, from time to time, and without notice, change or add to the Website or t
 
 Before using the Website, you must read the whole Terms, the Website policies and all linked information.
 
-You must read and accept all of the terms in, and linked to, this Terms, the Reviewhunt{' '} [Data Policy](https://review.hunt.town/policy) {' '} and all Website policies. By accepting this Terms as you access our Website, you agree that this Terms will apply whenever you use the Website, or when you use the tools we make available to interact with the Website. Some Websites may have additional or other terms that we provide to you when you use those services.
+You must read and accept all of the terms in, and linked to, this Terms, the Reviewhunt [Data Policy](https://review.hunt.town/policy)  and all Website policies. By accepting this Terms as you access our Website, you agree that this Terms will apply whenever you use the Website, or when you use the tools we make available to interact with the Website. Some Websites may have additional or other terms that we provide to you when you use those services.
 
 ## Eligibility
 
@@ -217,7 +217,7 @@ We run a blacklist to prevent abusing of Rewards from the Quest activities and m
 5.  Frequently interrupt the Quest operation by the Maker or the conduct of business.
 6.  for any other reason(s) that may harm on the overall Reviewhunt website and business operation.
 
-Even if you are blacklisted, you can still use our platform as a maker (creating quests), however, you won't be able to receive Rewards from your Quest approval and withdraw the USD Point displaying on My Credit section. We announce the blacklist via #blacklist channel in our{' '} [Discord Group](https://discord.gg/mFe5GPy) . You can also appeal via #reviewhunt channel if you think you did not commit any of the actions above.
+Even if you are blacklisted, you can still use our platform as a maker (creating quests), however, you won't be able to receive Rewards from your Quest approval and withdraw the USD Point displaying on My Credit section. We announce the blacklist via #blacklist channel in our [Discord Group](https://discord.gg/mFe5GPy) . You can also appeal via #reviewhunt channel if you think you did not commit any of the actions above.
 
 ## Fees & Services
 
@@ -277,7 +277,7 @@ Additionally, you agree that you will not:
 
 ## Privacy
 
-We use your information as described in the Reviewhunt{' '} [Data Policy](https://review.hunt.town/policy) . If you object to your information being transferred or used in this way then you must not use our services. For the avoidance of doubt, your name and personal details shall be used for identity purposes in the normal course of conducting business in this online marketplace. This may include on invoices and purchase orders including but not limited to between transacting parties, including those automatically generated on awarding, accepting and payment.
+We use your information as described in the Reviewhunt [Data Policy](https://review.hunt.town/policy) . If you object to your information being transferred or used in this way then you must not use our services. For the avoidance of doubt, your name and personal details shall be used for identity purposes in the normal course of conducting business in this online marketplace. This may include on invoices and purchase orders including but not limited to between transacting parties, including those automatically generated on awarding, accepting and payment.
 
 ## Indemnity
 
