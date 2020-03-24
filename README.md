@@ -9,11 +9,9 @@
 # Tutorials for makers
 
 
-# Hunters Guidelines
-https://review.hunt.town/guidelines/hunter
-
-# Makers Guidelines
-https://review.hunt.town/guidelines/maker
+# Guidelines
+- For hunters: https://review.hunt.town/guidelines/hunter
+- For makers: https://review.hunt.town/guidelines/maker
 
 # FAQ
 https://github.com/Steemhunt/reviewhunt-tutorial/blob/master/FAQ.md
