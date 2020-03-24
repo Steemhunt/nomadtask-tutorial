@@ -49,7 +49,7 @@ We may, from time to time, and without notice, change or add to the Website or t
 
 Before using the Website, you must read the whole Terms, the Website policies and all linked information.
 
-You must read and accept all of the terms in, and linked to, this Terms, the Reviewhunt [Data Policy](https://review.hunt.town/policy)  and all Website policies. By accepting this Terms as you access our Website, you agree that this Terms will apply whenever you use the Website, or when you use the tools we make available to interact with the Website. Some Websites may have additional or other terms that we provide to you when you use those services.
+You must read and accept all of the terms in, and linked to, this Terms, the Reviewhunt [Data Policy](https://github.com/Steemhunt/reviewhunt-tutorial/blob/master/policy.md)  and all Website policies. By accepting this Terms as you access our Website, you agree that this Terms will apply whenever you use the Website, or when you use the tools we make available to interact with the Website. Some Websites may have additional or other terms that we provide to you when you use those services.
 
 ## Eligibility
 
@@ -277,7 +277,7 @@ Additionally, you agree that you will not:
 
 ## Privacy
 
-We use your information as described in the Reviewhunt [Data Policy](https://review.hunt.town/policy) . If you object to your information being transferred or used in this way then you must not use our services. For the avoidance of doubt, your name and personal details shall be used for identity purposes in the normal course of conducting business in this online marketplace. This may include on invoices and purchase orders including but not limited to between transacting parties, including those automatically generated on awarding, accepting and payment.
+We use your information as described in the Reviewhunt [Data Policy](https://github.com/Steemhunt/reviewhunt-tutorial/blob/master/policy.md) . If you object to your information being transferred or used in this way then you must not use our services. For the avoidance of doubt, your name and personal details shall be used for identity purposes in the normal course of conducting business in this online marketplace. This may include on invoices and purchase orders including but not limited to between transacting parties, including those automatically generated on awarding, accepting and payment.
 
 ## Indemnity
 
