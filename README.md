@@ -7,7 +7,6 @@
 -
 #### Video tutorials
 -
-Video 
 
 ### Korean
 #### Articles
