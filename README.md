@@ -1,7 +1,5 @@
 # Welcome to Reviewhunt
-You can find a breif introduction and tutorials on our wiki page:
-
-https://github.com/Steemhunt/reviewhunt-tutorial/wiki
+You can find a breif introduction and tutorials on our [Wiki page](https://github.com/Steemhunt/reviewhunt-tutorial/wiki).
 
 ## Guidelines
 - [Maker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Makers-Guidelines)
