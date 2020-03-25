@@ -5,12 +5,11 @@ You can find a breif introduction and tutorials on our [Wiki page](https://githu
 - [Maker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Makers-Guidelines)
 - [Hunter Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Hunters-Guidelines)
 
+## FAQ
+- [FAQ](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/FAQ)
+
 ## Terms and Policy
 - [Terms of Service](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Reviewhunt-Terms)
 - [Data Policy](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Reviewhunt-Data-Policy)
 - [Refund Policy](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Refund-Policy)
 - [Blacklist Policy](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Blacklist-Policy)
-
-## FAQ
-- [FAQ](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/FAQ)
-
