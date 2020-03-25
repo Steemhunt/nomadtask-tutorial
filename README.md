@@ -1,37 +1,17 @@
-# Tutorials
+# Welcome to Reviewhunt
+You can find a breif introduction and tutorials on our wiki page:
+https://github.com/Steemhunt/reviewhunt-tutorial/wiki
 
-## For Hunters
+## Guidelines
+- [Maker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Makers-Guidelines)
+- [Hunter Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Hunters-Guidelines)
 
-### English
-#### Articles
--
-#### Video tutorials
--
+## Terms and Policy
+- [Terms of Service](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Reviewhunt-Terms)
+- [Data Policy](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Reviewhunt-Data-Policy)
+- [Refund Policy](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Refund-Policy)
+- [Blacklist Policy](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Blacklist-Policy)
 
-### Korean
-#### Articles
--
-#### Video tutorials
-- 닥터구구 돈버는 대학생: https://www.youtube.com/watch?v=KHKPTHlidn0
-- 포리얼TV: https://www.youtube.com/watch?v=5s0WUo8h9yE
-- 훈노보노: https://www.youtube.com/watch?v=InAAo7ucGG0
+## FAQ
+- [FAQ](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/FAQ)
 
-## For makers
-### English
-#### Articles
--
-#### Video tutorials
--
-
-### Korean
-#### Articles
--
-#### Video tutorials
--
-
-# Guidelines
-- For hunters: https://review.hunt.town/guidelines/hunter
-- For makers: https://review.hunt.town/guidelines/maker
-
-# FAQ
-https://github.com/Steemhunt/reviewhunt-tutorial/blob/master/FAQ.md
