@@ -2,8 +2,8 @@
 You can find a breif introduction and tutorials on our [Wiki page](https://github.com/Steemhunt/reviewhunt-tutorial/wiki).
 
 ## Guidelines
-- [Maker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Makers-Guidelines)
-- [Hunter Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Hunters-Guidelines)
+- [Maker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Maker-Guidelines)
+- [Worker Guidelines](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/Worker-Guidelines)
 
 ## FAQ
 - [FAQ](https://github.com/Steemhunt/reviewhunt-tutorial/wiki/FAQ)
